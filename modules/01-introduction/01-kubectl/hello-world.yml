@@ -8,7 +8,7 @@ metadata:
 spec:
   containers:
     - name: tutum-hello-world
-      image: tutum/hello-world
+      image: omrisiri/hello-world
       ports:
         - containerPort: 80
 ---
